@@ -1,1 +1,5 @@
 venv/
+.idea
+mysite/mysite/__pycache__/
+mysite/news/__pycache__/
+mysite/news/migrations/__pycache__/
